@@ -1,0 +1,80 @@
+perform: biểu diễn
+performed: thực hiện
+arts: nghệ thuật
+on admissions: về tuyển sinh
+bachelor: cử nhân
+exciting: thú vị
+finance: tài chính
+fee: chi phí
+fee academic: học phí
+scholarship: học bổng
+as long as: miễn là
+attend: tham gia
+suitable: thích hợp
+realistic: thực tế
+pursue: theo đuổi
+risky: rủi ro
+decent: đàng hoàng
+own apartment: căn họ riêng
+no longer: không còn nữa
+upstairs: tầng trên
+
+
+performed: thực hiện
+perform: biểu diện
+bachelor: cư nhân
+art: nghệ thuật
+exciting: thú vị
+finance: tài chính
+fee: chi phí
+academic fee: học phí
+scholarship: học bổng
+as long as: miễn là
+attend: tham gia
+suitable: thích hợp
+realistic: thực tế
+pursue: theo đuổi
+risky: rủi ro
+decent: đàng hoàng
+own apartment: căn hộ riêng
+no longer: ko còn nữa
+upstairs: tầng trên
+
+
+
+
+
+
+
+academic: thuộc về việc học
+acknowledge: công nhận
+assignment: sự phân công
+ballet: 3 lê
+biology: sinh học
+calculate: tính toán
+chemistry: hóa học
+colleague: cu nghiệp
+commensurate: tương xứng
+committee: ủy ban
+council: hội đồng
+department: phòng ban
+diploma: chứng chỉ
+graduate: tốt nghiệp
+handout: bố thí, tài liệu
+honor: danh dự
+institute: học viện
+merit: xứng đáng, công trạng
+outline: phác thảo
+philosophy: triết lý
+prerequisite: điều kiện tiên quyết
+qualify: đủ tiêu chuẩn
+seminar: hội thảo
+summary: tóm tắt
+terms: điều kiện
+thesis: luận văn
+tutor: gia sư
+
+
+
+
+
