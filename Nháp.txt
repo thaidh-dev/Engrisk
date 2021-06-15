@@ -1,1 +1,17 @@
-mankind 
+Sub countWord()
+    Dim col: col = 1
+    Dim rows: rows = Array(2, 114, 165)
+    Dim s, e
+    
+    ThisWorkbook.Sheets(1).Activate
+    Do While col <= 37
+        For Each row In rows
+            Cells(row, col).Select
+            s = ActiveCell.row
+            Selection.End(xlDown).Select
+            e = ActiveCell.row
+            Cells(row - 1, col + 1).Value = e - s + 1
+        Next row
+        col = col + 4
+    Loop
+End Sub
